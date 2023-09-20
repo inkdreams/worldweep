@@ -699,7 +699,6 @@ As a GM, you run your own story based on the thesis of the Bounty. For example, 
 <li>Luna</li>
 <li>Alison Fleming</li>
 <li>Boop</li>
-<li>Kelly “TrickDescent” Schwartz</li>
 <li>Chris Lemmons</li>
 <li>Kegan Nienstedt</li>
 <li>Joey “gameipedia” Luther</li>
