@@ -680,7 +680,7 @@ As a GM, you run your own story based on the thesis of the Bounty. For example, 
 <p>If a character dies in a Bounty, the GM must tag @pathfinder2e.</p>
 <h2 id="ghoran-calls-for-aid">Ghoran Calls for Aid</h2>
 <p>Sometimes, adventuring parties will have need of assistance from individuals and guilds during the course of their adventures. If those Bounties are occurring in the physical vicinity of a settlement, they can ask for help from people or guilds in that settlement. Parties can only ask for help in Homes or Guilds, not general purpose public areas like squares or Shops.</p>
-<p>To Call for Aid, the party must travel to the relevant location in the Settlement and make an RP post in the relevant thread, generally tagging the individual you’re asking for help from.</p>
+<p>To Call for Aid, the party must travel to the relevant location in the Settlement and make an RP post in the relevant thread, generally tagging the individual you’re asking for help from and they must reply that they can help.</p>
 <p>If someone is available there, they can join you temporarily on your journey. They receive no reward, stars or otherwise for their assistance, so they may quite reasonably ask for gold, a favor, or some other valuable thing in exchange for their help.</p>
 <p>Individuals assisting the party can only provide help with skill checks, spellcasting, lending gear, or providing advice and information. They cannot participate in combat or otherwise experience danger.</p>
 <h2 id="the-children-of-the-worldweep">The Children of the WorldWeep</h2>
