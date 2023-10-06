@@ -620,7 +620,7 @@ Items that create 20 bulk or more that have the [Extradimensional] Tag have beco
 <p><strong>Banes</strong><br>
 There are currently no banes in effect.</p>
 <h2 id="gifts">Gifts</h2>
-<p>Characters may not give non-infused consumables above the giftee’s level + 3, any gold, or any permanent magic items to another character without an established in-game Rapport (which can be formed via RP or having been in bounties together) and reason to do so. Sales and services are not gifts.</p>
+<p>Characters may not give non-infused consumables above the giftee’s level + 3, any gold, or any permanent magic items to another character without an established in-game Rapport (which can be formed via RP or having been in bounties together) and <strong>personalized</strong> reason to do so. This reason must be specific to the receiver of the gift and not simply applicable to anyone in their position. For example, simply joining a guild is insufficient rapport to establish gifting outside of these bounds. Sales and services are not gifts.</p>
 <p>Characters belonging to the same player may not give items or gold to one another in any way or share anything at all with one another.</p>
 <h2 id="play-by-post-pbp">Play By Post (PBP)</h2>
 <p>All Bounties will be available in both a Play By Post and live game setting to be picked up and run by any GM.</p>
