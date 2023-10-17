@@ -679,10 +679,26 @@ As a GM, you run your own story based on the thesis of the Bounty. For example, 
 <p>For players looking to find their sheets/JSON. All you have to do is go to the search bar and type “mentions:@(username) in:bounty-board” and it will list your most recent mentions. This is the smoothest and easiest way to get your next game going.</p>
 <p>If a character dies in a Bounty, the GM must tag @pathfinder2e.</p>
 <h2 id="ghoran-calls-for-aid">Ghoran Calls for Aid</h2>
-<p>Sometimes, adventuring parties will have need of assistance from individuals and guilds during the course of their adventures. If those Bounties are occurring in the physical vicinity of a settlement, they can ask for help from people or guilds in that settlement. Parties can only ask for help in Homes or Guilds, not general purpose public areas like squares or Shops.</p>
-<p>To Call for Aid, the party must travel to the relevant location in the Settlement and make an RP post in the relevant thread, generally tagging the individual you’re asking for help from and they must reply that they can help.</p>
-<p>If someone is available there, they can join you temporarily on your journey. They receive no reward, stars or otherwise for their assistance, so they may quite reasonably ask for gold, a favor, or some other valuable thing in exchange for their help.</p>
-<p>Individuals assisting the party can only provide help with skill checks, spellcasting, lending gear, or providing advice and information. They cannot participate in combat or otherwise experience danger.</p>
+<p>Sometimes, adventuring parties will have need of assistance from individuals and guilds during the course of their adventures. In order to Call for Aid you must:</p>
+<ul>
+<li>Go to a home, guild hall, or relevant RP thread within a Settlement;</li>
+<li>RP the request for assistance;</li>
+<li>Receive an RPed response to the request; and</li>
+<li>Receive the response in a timely manner so as not to hold up the bounty (usually about 10 minutes).</li>
+</ul>
+<p>A helper can do one of two things:</p>
+<ul>
+<li>
+<p><strong>Lend a hand:</strong> The helper may journey with the party to help complete a skill check or challenge. They may receive buffs, but not provide them to party members. This only covers assistance for a single situation, like asking for help unlocking a box or helping a sick companion. You also can’t ask for help for a hypothetical situation or a situation that hasn’t happened yet.</p>
+</li>
+<li>
+<p><strong>Grab a snacc:</strong> The helper may journey with the party to a camp and can venture somewhere that isn’t considered dangerous, that the party has already cleared to ensure it’s safety. They can provide a single item, spell, or infusion. No temporary item, spell effect, or infusion can last longer than 24 hours. Items given this way are Gifts (even if only on Loan) and must follow the relevant rules.</p>
+</li>
+</ul>
+<p>You cannot Call for Aid from a character more than three levels higher than the bounty level, nor may you receive any item, spell, or effect from a character who’s level is more than 3 levels higher than the bounty level.</p>
+<p>The helpers cannot participate in combat or otherwise experience harm, if for example a rogue critically fails a disarm trap challenge, the trap does engage, but the rogue is not harmed and leaves the party to go back home.</p>
+<p>Each instance of aid costs ⭐️ worth of gold. If no gold can be removed from the bounty, the GM removes bonus rewards, guild rewards, settlement rewards, or special rewards at their descretion. GMs may discuss with players the order of reword loss, but always makes the final decision. Players should know which reward is being lost prior to deciding on whether to Call of Aid. GMs should seriously consider prohibiting aid that would effectively cause the bounty to be a failure on account of stripped rewards.</p>
+<p>GMs can refuse to allow aid for any reason. They should always prohibit aid that isn’t feasible for the bounty or if it would trivialize a significant portion of it. Likewise, GMs should construe “challenge” narrowly. This is something like “unlocking a lock” or “researching zombies” and never something that would be better described as an “encounter”.</p>
 <h2 id="the-children-of-the-worldweep">The Children of the WorldWeep</h2>
 <p>As the game evolves and players give input on the game, the rules may change and we will change the mechanics as we go along. These rules are subject to change and be ironed out further to better accommodate the players and the player base. If you have any questions or any issues please let any of the moderators involved in the Worldweep know. Feel free to open up a ticket to discuss what you would like to see about the game and how it can improve.</p>
 <h2 id="beyond-the-rules">Beyond the Rules</h2>
